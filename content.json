@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-11-16.1",
-  "publishedAt": "2026-11-16T19:31:48.535Z",
+  "contentVersion": "2026-11-16.2",
+  "publishedAt": "2026-11-16T21:23:24.506Z",
   "minAppVersion": "1.0.0",
   "language": "en",
   "config": {
     "interstitialEveryNQuizzes": 1,
     "upgradePromptEveryNAds": 3,
     "reports": {
-      "web3formsAccessKey": "SET-AT-SETUP",
+      "web3formsAccessKey": "eabf8ebc-041c-4aa5-8dfb-ed365cc69574",
       "maxPerWindow": 5,
       "windowMinutes": 20
     }
