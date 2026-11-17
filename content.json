@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-11-16.2",
-  "publishedAt": "2026-11-16T21:23:24.506Z",
+  "contentVersion": "2026-11-17.1",
+  "publishedAt": "2026-11-17T21:23:58.490Z",
   "minAppVersion": "1.0.0",
   "language": "en",
   "config": {
@@ -48059,52 +48059,6 @@
       ],
       "correctOptionId": "a",
       "explanation": "From a penalty kicked into touch, the lineout is where the ball reached the touchline.",
-      "lawReference": {
-        "source": "world-rugby",
-        "clause": "18.8c"
-      },
-      "aiGenerated": true
-    },
-    {
-      "id": "q_1042",
-      "format": "mcq",
-      "language": "en",
-      "lawArea": 18,
-      "topic": "18.who-throws-in",
-      "distance": false,
-      "secondaryTopics": [],
-      "jurisdiction": "world-rugby",
-      "level": "community",
-      "gameType": "15s",
-      "ageGrade": [
-        "open"
-      ],
-      "supersedes": null,
-      "tier": "free",
-      "validFrom": "2026-01-01",
-      "validUntil": null,
-      "difficulty": 3,
-      "stem": "A penalty is kicked towards touch, and a defender standing in touch catches it before it has reached the touchline. Which team throws in, and where?",
-      "options": [
-        {
-          "id": "a",
-          "text": "The catcher's team, where the ball would have gone out"
-        },
-        {
-          "id": "b",
-          "text": "The kicking team, where the catcher is standing"
-        },
-        {
-          "id": "c",
-          "text": "The catcher's team, where the catcher is standing"
-        },
-        {
-          "id": "d",
-          "text": "The kicking team, in line with the penalty mark"
-        }
-      ],
-      "correctOptionId": "b",
-      "explanation": "From a penalty, if a player in touch catches the ball before it reaches the touchline, the kicking team throws in where that player is standing.",
       "lawReference": {
         "source": "world-rugby",
         "clause": "18.8c"
