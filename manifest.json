@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-11-17.1",
-  "publishedAt": "2026-11-17T21:23:58.490Z",
+  "contentVersion": "2026-11-18.1",
+  "publishedAt": "2026-11-18T22:42:04.487Z",
   "minAppVersion": "1.0.0",
   "file": "content.json",
-  "bytes": 1691654,
-  "sha256": "16d412666fe54cd8c415b38ae9e21689d7beefd7d327f4b6d0f8b15856fb539e"
+  "bytes": 1691717,
+  "sha256": "22a257acdf9c2ef98c9b0e16b4f8822ea8de89428e77df6bb0a59f3f2b5d9437"
 }

@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "2026-11-17.1",
-  "publishedAt": "2026-11-17T21:23:58.490Z",
+  "contentVersion": "2026-11-18.1",
+  "publishedAt": "2026-11-18T22:42:04.487Z",
   "minAppVersion": "1.0.0",
   "language": "en",
   "config": {
     "interstitialEveryNQuizzes": 1,
     "upgradePromptEveryNAds": 3,
     "reports": {
-      "web3formsAccessKey": "eabf8ebc-041c-4aa5-8dfb-ed365cc69574",
+      "url": "https://script.google.com/macros/s/AKfycbw81E6ATmko6yPevujFzS18o_vOkN-FPsL65mbGK0seRFYQHVpCl9_aN9RZZLZR05PkyQ/exec",
       "maxPerWindow": 5,
       "windowMinutes": 20
     }
